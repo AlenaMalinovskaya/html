@@ -1,0 +1,17 @@
+#idHome{
+    color: rgb(26, 235, 152);
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.classTagA{
+    color: rgb(244, 48, 48);
+    margin: 0 15px;
+    text-decoration: none;
+}
+h3{
+    background-color: blueviolet;
+}
+#test{background-color: blue;}
+*{border: 1px solid black;
+border-radius: 10px;}
